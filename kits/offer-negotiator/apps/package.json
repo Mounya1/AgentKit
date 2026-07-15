@@ -2,7 +2,7 @@
   "name": "offer-negotiator-app",
   "version": "1.0.0",
   "private": true,
-  "author": "Ahmed Abdur Rahman",
+  "author": "Mounya Inampudi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
