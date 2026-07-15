@@ -24,8 +24,8 @@ export const meta = {
   "documentationUrl": "",
   "deployUrl": "",
   "author": {
-    "name": "Ahmed Abdur Rahman",
-    "email": "asquarer02@yahoo.com"
+    "name": "Mounya Inampudi",
+    "email": "mounyainampudi@gmail.com"
   }
 };
 
