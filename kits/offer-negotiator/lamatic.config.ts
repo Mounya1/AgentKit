@@ -4,7 +4,7 @@ export default {
     "Turn a job offer into a negotiation plan and a ready-to-send counter-offer. Paste your offer and priorities; get an assessment, leverage points, target numbers, talking points, a counter-offer email, and a call script.",
   version: "1.0.0",
   type: "kit" as const,
-  author: { name: "Ahmed Abdur Rahman", email: "asquarer02@yahoo.com" },
+  author: { name: "Mounya Inampudi", email: "mounyainampudi@gmail.com" },
   tags: ["career", "agentic", "productivity"],
   steps: [
     {
